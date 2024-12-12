@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/bookings/page.jsx", "app/login/page.jsx", "app/register/page.jsx", "app/rooms/[id]/page.tsx", "app/rooms/add/page.jsx", "app/rooms/my/page.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/bookings/page.jsx", "app/login/page.jsx", "app/register/page.jsx", "app/rooms/[id]/page.jsx", "app/rooms/add/page.jsx", "app/rooms/my/page.jsx"],
   "exclude": ["node_modules"]
 }
