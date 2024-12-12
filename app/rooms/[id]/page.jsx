@@ -7,6 +7,8 @@ import Link from 'next/link'
 import { FaChevronLeft } from 'react-icons/fa'
 
 export default async function SingleRoom({params}) {
+  // initiall a tsx
+  
   const bucketId = process.env.NEXT_PUBLIC_APPWRITE_STORAGE_BUCKET_ROOMS
 
   const projectId = process.env.NEXT_PUBLIC_APPWRITE_PROJECT
