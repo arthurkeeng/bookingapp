@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+environment variables used are
+
+NEXT_APPWRITE_KEY=
+NEXT_PUBLIC_APPWITE_ENDPOINT=https://cloud.appwrite.io/v1
+NEXT_PUBLIC_APPWRITE_PROJECT=
+NEXT_PUBLIC_APPWRITE_DATABASE=
+
+NEXT_PUBLIC_APPWRITE_ROOMS_COLLECTION=
+NEXT_PUBLIC_APPWRITE_BOOKINGS_COLLECTION=
+NEXT_PUBLIC_APPWRITE_STORAGE_BUCKET_AVATARS=
+NEXT_PUBLIC_APPWRITE_STORAGE_BUCKET_ROOMS=
+NEXT_PUBLIC_URL=http://localhost:3000
